@@ -1,5 +1,10 @@
-### Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&pause=1000&color=B4CDF7&width=435&lines=Sup!+I'm+computer+science+student)](https://git.io/typing-svg)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsusahi&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsusahi&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsusahi&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsusahi&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsusahi&theme=solarized_dark)
 <!--
 **tsusahi/tsusahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
